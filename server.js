@@ -72,3 +72,4 @@ app.get("/projects", (req, res) => {
 // step two
 // step three
 // checkpoint 1
+// checkpoint 2
